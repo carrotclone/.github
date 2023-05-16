@@ -3,11 +3,10 @@
 ## ☘️ 여행 후기 사이트
 [다녀왔쥬? 서비스 이용해보기](http://hanghae99.team6.travler.s3-website.ap-northeast-2.amazonaws.com/)
 
-![2552608]([https://user-images.githubusercontent.com/40461588/236686684-40a4db08-79f1-4add-8682-c848e590ffa4.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fdaangn%2F&psig=AOvVaw1MBkt8QU8psFyZib82YzeJ&ust=1684327819055000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiuu5vw-f4CFQAAAAAdAAAAABAE)
+![2552608](https://8-carrot.s3.ap-northeast-2.amazonaws.com/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
 
 
-
-### __사계절을 테마로 여행지에 대한 후기를 남기고 이를 사용자들과 공유합니다.__
+### __당근마켓 클론 코딩을 한 이유 위치 기반 서비스 및 채팅의 __
 
 ### 유저 기능
 #### 로그인과 회원가입을 통해서 사용자가 여행일지를 작성하고 이를 삭제/수정 할 수 있습니다 . 

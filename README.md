@@ -3,9 +3,6 @@
 ## ☘️ 8조의 당근 마켓 사이트
 [당근마켓 서비스 이용해보기](http://hanghae99.team6.travler.s3-website.ap-northeast-2.amazonaws.com/)
 
-![2552608](https://8-carrot.s3.ap-northeast-2.amazonaws.com/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
-
-
 ### __당근마켓 클론 코딩을 한 이유 위치 기반 서비스 및 채팅 구현을 모두 경험 해 볼수 있다고 생각하여 하게 되었습니다.__
 
 ### 유저 기능

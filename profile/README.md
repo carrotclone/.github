@@ -13,6 +13,8 @@
 
 # 🏃🏻‍♂️프로젝트 과정
 ### 🙆🏻‍♀️ 협업
+-[ERD CLOUD](https://www.erdcloud.com/d/8T5xiSxPdtxgrc9NF)
+
 -[Notion](https://telling-dugong-1fd.notion.site/8-8db49f11f60340bb9bb0d02bd40cd635)
 
 -[Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuHF6PcPMZ8uG3pWbW2NgLY%2F%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9%2F8%EC%A1%B0%3Ftype%3Ddesign%26node-id%3D0-1%26t%3Dudvjub9IelRcwi6X-0)

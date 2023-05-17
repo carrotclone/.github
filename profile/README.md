@@ -1,5 +1,7 @@
 # 8조 당근마켓 클론 코딩
 
+![다운로드](https://github.com/carrotclone/.github/assets/128371819/81a48c94-341b-4b95-8c6d-0781d221b6ed)
+
 ## ☘️ 8조의 당근 마켓 사이트
 [당근마켓 서비스 이용해보기](http://hanghae99.team6.travler.s3-website.ap-northeast-2.amazonaws.com/)
 
@@ -13,8 +15,17 @@
 
 # 🏃🏻‍♂️프로젝트 과정
 ### 🙆🏻‍♀️ 협업
--[ERD CLOUD](https://www.erdcloud.com/d/8T5xiSxPdtxgrc9NF)
 
 -[Notion](https://telling-dugong-1fd.notion.site/8-8db49f11f60340bb9bb0d02bd40cd635)
 
+-[ERD CLOUD](https://www.erdcloud.com/d/8T5xiSxPdtxgrc9NF)
+
+<img width="1363" alt="스크린샷 2023-05-17 오후 4 51 25" src="https://github.com/carrotclone/.github/assets/128371819/10693f69-a3b0-474c-9a6c-97605118b2df">
+
 -[Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuHF6PcPMZ8uG3pWbW2NgLY%2F%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9%2F8%EC%A1%B0%3Ftype%3Ddesign%26node-id%3D0-1%26t%3Dudvjub9IelRcwi6X-0)
+
+<img width="1363" alt="스크린샷 2023-05-17 오후 4 49 31" src="https://github.com/carrotclone/.github/assets/128371819/8cd6a6bf-39b6-428f-a471-8c50dfa15e91">
+
+-[git 전략]
+
+<img width="500" alt="스크린샷 2023-05-17 오후 4 47 29" src="https://github.com/carrotclone/.github/assets/128371819/71c0e69e-579d-430a-a38c-8777703eb596">

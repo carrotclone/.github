@@ -5,6 +5,23 @@
 ## ☘️ 8조의 당근 마켓 사이트
 [당근마켓 서비스 이용해보기](http://hanghae99.team6.travler.s3-website.ap-northeast-2.amazonaws.com/)
 
+[8근마켓 영상보러가기](http://hanghae99.team6.travler.s3-website.ap-northeast-2.amazonaws.com/)
+
+## &#127774; 팀원소개
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/hansololiviakim"><img src="https://avatars.githubusercontent.com/u/84097192?v=4" width="100px;" alt=""/><br /><sub><b> FE:김한솔</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/wlsud801"><img src="https://avatars.githubusercontent.com/u/128350568?v=4" width="100px;" alt=""/><br /><sub><b> FE:김진영</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/leesco22"><img src="https://avatars.githubusercontent.com/u/127731995?v=4" width="100px;" alt=""/><br /><sub><b> BE:이세훈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/rnjswo9578"><img src="https://avatars.githubusercontent.com/u/80087131?v=4" width="100px;" alt=""/><br /><sub><b> BE:권민재</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/chaeeun0-o"><img src="https://avatars.githubusercontent.com/u/122453216?v=4" width="100px;" alt=""/><br /><sub><b> BE:김채은</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/bbakzi"><img src="https://avatars.githubusercontent.com/u/128371819?v=4" width="100px;" alt=""/><br /><sub><b> BE:박지훈</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
 ### __당근마켓 클론 코딩을 한 이유 위치 기반 서비스 및 채팅 구현을 모두 경험 해 볼수 있다고 생각하여 하게 되었습니다.__
 
 ### 유저 기능

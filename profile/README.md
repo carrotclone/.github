@@ -37,7 +37,7 @@
 
 -[ERD CLOUD](https://www.erdcloud.com/d/8T5xiSxPdtxgrc9NF)
 
-<img width="1363" alt="스크린샷 2023-05-17 오후 4 51 25" src="https://github.com/carrotclone/.github/assets/128371819/10693f69-a3b0-474c-9a6c-97605118b2df">
+<img width="1068" alt="스크린샷 2023-05-18 오후 8 06 52" src="https://github.com/carrotclone/8backend/assets/128371819/178edc46-331c-49c3-94a1-43af4fce72e5">
 
 -[Figma](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FuHF6PcPMZ8uG3pWbW2NgLY%2F%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9%2F8%EC%A1%B0%3Ftype%3Ddesign%26node-id%3D0-1%26t%3Dudvjub9IelRcwi6X-0)
 

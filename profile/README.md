@@ -15,7 +15,7 @@
       <td align="center"><a href="https://github.com/hansololiviakim"><img src="https://avatars.githubusercontent.com/u/84097192?v=4" width="100px;" alt=""/><br /><sub><b> FE:김한솔</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/wlsud801"><img src="https://avatars.githubusercontent.com/u/128350568?v=4" width="100px;" alt=""/><br /><sub><b> FE:김진영</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/leesco22"><img src="https://avatars.githubusercontent.com/u/127731995?v=4" width="100px;" alt=""/><br /><sub><b> BE:이세훈</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/rnjswo9578"><img src="https://avatars.githubusercontent.com/u/80087131?v=4" width="100px;" alt=""/><br /><sub><b> BE:권민재</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/rnjswo9578"><img src="https://avatars.githubusercontent.com/u/80087131?v=4" width="100px;" alt=""/><br /><sub><b> BE:박권재</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/chaeeun0-o"><img src="https://avatars.githubusercontent.com/u/122453216?v=4" width="100px;" alt=""/><br /><sub><b> BE:김채은</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/bbakzi"><img src="https://avatars.githubusercontent.com/u/128371819?v=4" width="100px;" alt=""/><br /><sub><b> BE:박지훈</b></sub></a><br /></td>
     </tr>
